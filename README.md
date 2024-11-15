@@ -1,4 +1,4 @@
-##Loading Page with nextjs
+## Loading Page with nextjs
 
 ### instalation 
-#npm install | npm run dev
+# npm install | npm run dev
